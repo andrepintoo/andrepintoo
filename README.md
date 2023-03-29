@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <hr>
-## :fire: Streak stats :fire:
+## :fire: Streak stats:
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=andrepintoo&theme=dark&ring=68d781&fire=ffffff&currStreakLabel=ffffff"/>
