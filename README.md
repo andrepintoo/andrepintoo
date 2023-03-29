@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 <hr>
   
-### :mailbox: Connect with me:
+### :mailbox: Reach me here:
 <div>
   <p align="center">
     <a href="mailto:andresantospinto26@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
