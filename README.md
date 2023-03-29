@@ -26,4 +26,12 @@ Here are some ideas to get you started:
 
 <br/>
 
+## :mailbox: Connect with me:
+<div>
+  
+  <a href="mailto:andresantospinto26@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/andrepinto6/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+<br />
 
