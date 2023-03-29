@@ -1,5 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm André Pinto </h1>
-<h4 align="center"> Software Engineer from Portugal<h3>
+<h4 align="center"> Software Engineer from Portugal</h4>
+<h5 align="center"> Currently doing research in AI</h5>
 
 <!--
 **andrepintoo/andrepintoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
