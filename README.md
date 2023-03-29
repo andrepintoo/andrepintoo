@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <hr>
-### :fire: Streak stats:
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+### :fire: Streak stats: 
 <div>
   <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -26,8 +27,8 @@ Here are some ideas to get you started:
   </p>
 </div>
 
-<br/>
-
+<hr>
+  
 ### :mailbox: Connect with me:
 <div>
   <p align="center">
