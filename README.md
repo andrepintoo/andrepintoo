@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <hr>
-### 🔥 Streak stats 🔥
+🔥 Streak stats 🔥
 <p align="center">
-  
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=andrepintoo&theme=dark&ring=68d781&fire=ffffff&currStreakLabel=ffffff"/>
+    <img alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=andrepintoo&theme=dark&ring=68d781&fire=ffffff&currStreakLabel=ffffff"/>
   </a>
 </p>
 
