@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br/>
 
 <hr>
-## :mailbox: Connect with me:
+### :mailbox: Connect with me:
 <div>
   <p align="center">
     <a href="mailto:andresantospinto26@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
