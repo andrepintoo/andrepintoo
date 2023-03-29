@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm André Pinto
 
 <!--
 **andrepintoo/andrepintoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <hr>
-## :fire: Streak stats:
+
+### :fire: Streak stats:
+
 <div>
   <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -29,7 +31,6 @@ Here are some ideas to get you started:
 <br/>
 
 <hr>
-
 ## :mailbox: Connect with me:
 <div>
   <p align="center">
