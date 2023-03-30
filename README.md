@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <hr>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-### :fire: Streak stats: 
+### :fire: Github stats: 
 <div>
   <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
